@@ -1,0 +1,95 @@
+.App {
+    text-align: center;
+}
+
+.navbar{
+    width: 15%;
+}
+
+.container{
+    width: 80%;
+    float: right;
+}
+
+.items-list {
+    display: inline-block;
+}
+
+.single-item {
+    width: 14em;
+    display: inline-block;
+    margin: 1em;
+}
+
+.info {
+    display: block;
+}
+
+.item-img {
+    width: 90px;
+    margin: 5px;
+}
+
+.title {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.about {
+    float: left;
+    width: 60%;
+}
+
+.about-img {
+    margin-top: 5px;
+    display: block;
+    width: 33%;
+}
+
+.about-header {
+    font-family: -apple-system;
+    float: left;
+}
+
+.about-paragraph {
+    text-align: left;
+    display: inline-block;
+}
+
+.sidebar {
+    background-image: linear-gradient(greenyellow, deepskyblue);
+    border-radius: 25px 0px 25px 0px;
+    float: left;
+    height: 1000px;
+}
+
+.sidebar-img {
+    width: 50%;
+    margin-bottom: 150px;
+}
+
+.nav-btn{
+    margin: 5px;
+    color: white;
+    font-size: larger;
+}
+
+.nav-btn:hover{
+    color: deepskyblue;
+}
+
+.line-trough{
+    color: white;
+    font-size: larger;
+    text-decoration: line-through;
+}
+
+.row{
+    padding-top: 150%;
+}
+
+.row .fa {
+    color: white;
+    margin-left: 10px;
+    border-radius: 30px;
+}
